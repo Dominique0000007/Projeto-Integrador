@@ -1,0 +1,8 @@
+Front:
+	(Caio) - Fiz o Deploy do front  na Netlify no dia 30/11/24 ("O definitivo no caso");
+Back:
+	(Caio) - Fiz o Deploy do Back na Render no dia 15/11/24  ("Sendo o definitivo também");
+
+Hospedagem do banco: 
+	(Caio) - Fiz a Hospedagem do banco na Aiven no dia 20/10/24 ("Pelo que me lembro foi nesta data")
+
